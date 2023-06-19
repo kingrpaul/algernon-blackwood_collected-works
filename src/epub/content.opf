@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/algernon-blackwood/short-fiction</dc:identifier>
+		<dc:identifier id="uid">url:https://github.com/kingrpaul/algernon-blackwood_collected-works</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
-		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
-		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org</meta>
+		<dc:publisher id="publisher">Paul King</dc:publisher>
+		<meta property="file-as" refines="#publisher">King, Paul</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://kingrpaul.github.io/</meta>
 		<meta property="se:role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="se:role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="se:role" refines="#publisher" scheme="marc:relators">pbl</meta>
@@ -26,8 +26,8 @@
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.1 Level AA.</meta>
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
-		<dc:title id="title">Short Fiction</dc:title>
-		<meta property="file-as" refines="#title">Short Fiction</meta>
+		<dc:title id="title">Collected Works</dc:title>
+		<meta property="file-as" refines="#title">Collected Works</meta>
 		<dc:subject id="subject-1">Horror tales</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85062084</meta>
@@ -44,10 +44,10 @@
 		<meta property="se:subject">Travel</meta>
 		<dc:description id="description">Algernon Blackwood was a prolific, popular, and influential writer, often associated with “weird fiction,” but whose work spans an array of genre, subject, form, and audience.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/algernon-blackwood"&gt;Algernon Blackwood&lt;/a&gt; was a prolific, popular, and influential writer, often associated with “weird fiction,” but whose work spans an array of genre, subject, form, and audience.&lt;/p&gt;
-			&lt;p&gt;“The Willows,” his best known work and Lovecraft’s favorite supernatural tale, narrates a pilgrimage by two men across central Europe⁠—a journey Tolkien’s readers will recognize as Frodoesque. Both Lovecraft and Tolkien acknowledged Blackwood’s influence and this influence is unmistakable any time Tolkien as author finds himself among ancient trees, climbing a mountain, or afloat on a river. For Lovecraft, it is Blackwood who transforms the “higher space” of Einstein’s annus mirabilis into a perilous firmament to be filled with cosmic horrors and it is Blackwood who first writes the eldritch text that is to become Lovecraft’s Necronomicon. But, while Blackwood was an explorer of the macabre corners of “ghostland;” he was captivated by the beauty of nature, believed in “traveling light,” and never confined himself anywhere.&lt;/p&gt;
-			&lt;p&gt;It had been one of Blackwood’s life goals to become a “holy man.” He lived itinerant, unwed, and wrote only because he “could not keep it back.” His words were published in books, magazines, journals, newspapers; presented on stage; and broadcast on radio and television. Writing for any reader, he was published by &lt;i&gt;The Country Gentleman&lt;/i&gt;, &lt;i&gt;Lady’s Realm&lt;/i&gt;, and⁠—⁠for children⁠—⁠in &lt;i&gt;The Merry Go Round&lt;/i&gt;. He wrote for both &lt;i&gt;The Methodist Magazine&lt;/i&gt; and &lt;i&gt;The Occult Review&lt;/i&gt;. One of his lesser-read stories was printed exclusively by &lt;i&gt;The Burrowa News&lt;/i&gt; of New South Wales, in Australia.&lt;/p&gt;
-			&lt;p&gt;Even Blackwood lost count of what he had published, so that no definitive bibliography exists. Though the present collection is not exhaustive⁠—doubtless some works are lost to time⁠—it is the most extensive of its kind. The fiction includes 16 novellas, a 3-act play, 145 short stories, 5 poems, and 3 songs. Supplementing this are 53 non-fiction works. Most provide background to the fiction stories and some are stories themselves.&lt;/p&gt;
+			&lt;p&gt;Algernon Blackwood was a prolific, popular, and influential writer, often associated with “weird fiction,” but whose work spans an array of genre, subject, form, and audience.&lt;/p&gt;
+			&lt;p&gt;“The Willows,” his best known work and Lovecraft’s favorite supernatural tale, narrates a pilgrimage by two men across central Europe—a journey Tolkien’s readers will recognize as Frodoesque. Both Lovecraft and Tolkien acknowledged Blackwood’s influence and this influence is unmistakable any time Tolkien as author finds himself among ancient trees, climbing a mountain, or afloat on a river. For Lovecraft, it is Blackwood who transforms the “higher space” of Einstein’s annus mirabilis into a perilous firmament to be filled with cosmic horrors and it is Blackwood who first writes the eldritch text that is to become Lovecraft’s Necronomicon. But, while Blackwood was an explorer of the macabre corners of “ghostland;” he was captivated by the beauty of nature, believed in “traveling light,” and never confined himself anywhere.&lt;/p&gt;
+			&lt;p&gt;It had been one of Blackwood’s life goals to become a “holy man.” He lived itinerant, unwed, and wrote only because he “could not keep it back.” His words were published in books, magazines, journals, newspapers; presented on stage; and broadcast on radio and television. Writing for any reader, he was published by &lt;i&gt;The Country Gentleman&lt;/i&gt;, &lt;i&gt;Lady’s Realm&lt;/i&gt;, and—for children—in &lt;i&gt;The Merry Go Round&lt;/i&gt;. He wrote for both &lt;i&gt;The Methodist Magazine&lt;/i&gt; and &lt;i&gt;The Occult Review&lt;/i&gt;. One of his lesser-read stories was printed exclusively by &lt;i&gt;The Burrowa News&lt;/i&gt; of New South Wales, in Australia.&lt;/p&gt;
+			&lt;p&gt;Even Blackwood lost count of what he had published, so that no definitive bibliography exists. Though the present collection is not exhaustive—doubtless some works are lost to time—it is the most extensive of its kind. The fiction includes 16 novellas, a 3-act play, 145 short stories, 5 poems, and 3 songs. Supplementing this are 53 non-fiction works. Most provide background to the fiction stories and some are stories themselves.&lt;/p&gt;
 			&lt;p&gt;While there is no “Blackwood Universe” in the modern sense; themes, characters, and settings are often shared. When Blackwood writes, the categories of fiction, non-fiction, and autobiography become indistinct, some works difficult to place. Of the works in this collection, twenty-one were published for children, but again the distinction is often arbitrary.&lt;/p&gt;
 			&lt;p&gt;In the end, it is all Blackwood.&lt;/p&gt;
 		</meta>
@@ -67,7 +67,7 @@
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Algernon_Blackwood</meta>
-		<meta property="se:url.vcs.github">https://github.com/standardebooks/algernon-blackwood_short-fiction</meta>
+		<meta property="se:url.vcs.github">https://github.com/kingrpaul/algernon-blackwood_collected-works</meta>
 		<dc:creator id="author">Algernon Blackwood</dc:creator>
 		<meta property="file-as" refines="#author">Blackwood, Algernon</meta>
 		<meta property="se:name.person.full-name" refines="#author">Algernon Henry Blackwood</meta>
@@ -77,7 +77,7 @@
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">aft</meta>
 		<dc:contributor id="writer-of-epigraph">Maude M. C. Ffoulkes</dc:contributor>
-		<meta property="file-as" refines="#writer-of-epigraph">Ffoulkes, Maude M. C. </meta>
+		<meta property="file-as" refines="#writer-of-epigraph">Ffoulkes, Maude M. C.</meta>
 		<meta property="display-seq" refines="#writer-of-epigraph">0</meta>
 		<meta property="se:name.person.full-name" refines="#writer-of-epigraph">Maude Mary Chester Ffoulkes</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#writer-of-epigraph">https://en.wikipedia.org/wiki/Maude_M_C_Ffoulkes</meta>
@@ -218,7 +218,7 @@
 		<item href="text/christmas-in-england.xhtml" id="christmas-in-england.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/clairvoyance.xhtml" id="clairvoyance.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/clouds-and-mountains.xhtml" id="clouds-and-mountains.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/confession.xhtml" id="confession.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/discovering-russia-on-foot.xhtml" id="discovering-russia-on-foot.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/down-the-danube-in-a-canadian-canoe.xhtml" id="down-the-danube-in-a-canadian-canoe.xhtml" media-type="application/xhtml+xml"/>
@@ -243,7 +243,7 @@
 		<item href="text/if-i-were-you.xhtml" id="if-i-were-you.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/if-the-cap-fits.xhtml" id="if-the-cap-fits.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imagination.xhtml" id="imagination.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/in-a-strange-land.xhtml" id="in-a-strange-land.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/in-hungary-with-tent-and-canoe.xhtml" id="in-hungary-with-tent-and-canoe.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/in-the-jura-neuchatel.xhtml" id="in-the-jura-neuchatel.xhtml" media-type="application/xhtml+xml"/>
@@ -414,229 +414,229 @@
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="epigraph.xhtml"/>
-		<itemref idref="foreword.xhtml"/>
 		<itemref idref="halftitlepage.xhtml"/>
-		<itemref idref="a-mysterious-house.xhtml"/>
-		<itemref idref="christmas-in-england.xhtml"/>
-		<itemref idref="about-the-moravians.xhtml"/>
-		<itemref idref="in-the-jura-neuchatel.xhtml"/>
-		<itemref idref="memories-of-the-black-forest.xhtml"/>
-		<itemref idref="the-story-of-karl-ott.xhtml"/>
-		<itemref idref="a-haunted-island.xhtml"/>
-		<itemref idref="spread-of-the-national-anthem.xhtml"/>
+		<itemref idref="foreword.xhtml"/>
+		<itemref idref="a-barmecide-feast.xhtml"/>
+		<itemref idref="a-bit-of-wood.xhtml"/>
 		<itemref idref="a-case-of-eavesdropping.xhtml"/>
-		<itemref idref="a-spiritualist-camp-in-new-england.xhtml"/>
-		<itemref idref="in-hungary-with-tent-and-canoe.xhtml"/>
-		<itemref idref="down-the-danube-in-a-canadian-canoe.xhtml"/>
-		<itemref idref="summering-in-canadian-backwoods.xhtml"/>
-		<itemref idref="the-last-egg-in-the-nest.xhtml"/>
-		<itemref idref="at-school-in-the-black-forest.xhtml"/>
-		<itemref idref="how-garnier-broke-the-logjam.xhtml"/>
-		<itemref idref="testing-his-courage.xhtml"/>
-		<itemref idref="the-house-of-the-past.xhtml"/>
-		<itemref idref="about-moose-and-moose-hunting.xhtml"/>
+		<itemref idref="a-continuous-performance.xhtml"/>
+		<itemref idref="a-descent-into-egypt.xhtml"/>
+		<itemref idref="a-desert-episode.xhtml"/>
+		<itemref idref="a-haunted-island.xhtml"/>
 		<itemref idref="a-holiday-down-the-danube-with-punt-and-tent.xhtml"/>
-		<itemref idref="a-suspicious-gift.xhtml"/>
-		<itemref idref="keeping-his-promise.xhtml"/>
-		<itemref idref="my-adventure-with-a-lion.xhtml"/>
-		<itemref idref="skeleton-lake-an-episode-in-camp.xhtml"/>
-		<itemref idref="smith-an-episode-in-a-lodging-house.xhtml"/>
-		<itemref idref="the-empty-house.xhtml"/>
-		<itemref idref="the-strange-adventures-of-a-private-secretary-in-new-york.xhtml"/>
-		<itemref idref="the-vanishing-redskins.xhtml"/>
-		<itemref idref="the-wood-of-the-dead.xhtml"/>
-		<itemref idref="with-intent-to-steal.xhtml"/>
-		<itemref idref="max-hensig.xhtml"/>
-		<itemref idref="may-day-eve.xhtml"/>
-		<itemref idref="miss-slumbubble-and-claustrophobia.xhtml"/>
-		<itemref idref="the-dance-of-death.xhtml"/>
-		<itemref idref="the-eccentricity-of-simon-parnacute.xhtml"/>
-		<itemref idref="the-farmhouse-on-the-hill.xhtml"/>
-		<itemref idref="the-insanity-of-jones.xhtml"/>
-		<itemref idref="the-listener.xhtml"/>
-		<itemref idref="the-man-who-played-upon-the-leaf.xhtml"/>
-		<itemref idref="the-old-man-of-visions.xhtml"/>
-		<itemref idref="the-willows.xhtml"/>
-		<itemref idref="the-womans-ghost-story.xhtml"/>
-		<itemref idref="ancient-sorceries.xhtml"/>
+		<itemref idref="a-man-of-earth.xhtml"/>
+		<itemref idref="a-mysterious-house.xhtml"/>
 		<itemref idref="a-psychical-invasion.xhtml"/>
-		<itemref idref="our-adventure-with-the-danube-river-police.xhtml"/>
-		<itemref idref="secret-worship.xhtml"/>
-		<itemref idref="the-camp-of-the-dog.xhtml"/>
-		<itemref idref="the-kit-bag.xhtml"/>
-		<itemref idref="the-nemesis-of-fire.xhtml"/>
-		<itemref idref="the-story-mr-popkiss-told.xhtml"/>
+		<itemref idref="a-spiritualist-camp-in-new-england.xhtml"/>
+		<itemref idref="a-suspicious-gift.xhtml"/>
+		<itemref idref="a-victim-of-higher-space.xhtml"/>
+		<itemref idref="a-voice-in-the-wilderness.xhtml"/>
+		<itemref idref="about-moose-and-moose-hunting.xhtml"/>
+		<itemref idref="about-the-moravians.xhtml"/>
+		<itemref idref="accessory-before-the-fact.xhtml"/>
+		<itemref idref="after-the-war.xhtml"/>
+		<itemref idref="alexander-alexander.xhtml"/>
+		<itemref idref="algonquin-songs-and-legends.xhtml"/>
+		<itemref idref="an-arab-pilgrimage.xhtml"/>
+		<itemref idref="an-egyptian-hornet.xhtml"/>
+		<itemref idref="ancient-lights.xhtml"/>
+		<itemref idref="ancient-sorceries.xhtml"/>
+		<itemref idref="animal-life-in-the-egyptian-desert.xhtml"/>
+		<itemref idref="arolla-and-its-climbs.xhtml"/>
+		<itemref idref="at-school-in-the-black-forest.xhtml"/>
+		<itemref idref="before-the-season.xhtml"/>
+		<itemref idref="by-water.xhtml"/>
+		<itemref idref="cains-atonement.xhtml"/>
 		<itemref idref="carltons-drive.xhtml"/>
+		<itemref idref="chinese-magic.xhtml"/>
+		<itemref idref="christmas-in-england.xhtml"/>
+		<itemref idref="clairvoyance.xhtml"/>
 		<itemref idref="clouds-and-mountains.xhtml"/>
+		<itemref idref="confession.xhtml"/>
+		<itemref idref="discovering-russia-on-foot.xhtml"/>
+		<itemref idref="down-the-danube-in-a-canadian-canoe.xhtml"/>
+		<itemref idref="dream-trespass.xhtml"/>
+		<itemref idref="egypt.xhtml"/>
+		<itemref idref="egyptian-sorcery.xhtml"/>
+		<itemref idref="engine.xhtml"/>
 		<itemref idref="entrance-and-exit.xhtml"/>
-		<itemref idref="the-boy-messenger.xhtml"/>
-		<itemref idref="the-face-of-the-earth.xhtml"/>
-		<itemref idref="the-laying-of-a-red-haired-ghost.xhtml"/>
-		<itemref idref="you-may-telephone-from-here.xhtml"/>
+		<itemref idref="explorers-ghost-stories.xhtml"/>
+		<itemref idref="failure-of-the-swiss-winter-season.xhtml"/>
+		<itemref idref="faith-cure-on-the-channel.xhtml"/>
+		<itemref idref="first-hate.xhtml"/>
 		<itemref idref="from-the-swiss-lakes.xhtml"/>
+		<itemref idref="full-circle.xhtml"/>
+		<itemref idref="h-s-h.xhtml"/>
+		<itemref idref="her-birthday.xhtml"/>
+		<itemref idref="how-garnier-broke-the-logjam.xhtml"/>
+		<itemref idref="if-i-were-you.xhtml"/>
 		<itemref idref="if-the-cap-fits.xhtml"/>
 		<itemref idref="imagination.xhtml"/>
 		<itemref idref="in-a-strange-land.xhtml"/>
-		<itemref idref="old-clothes.xhtml"/>
-		<itemref idref="special-delivery.xhtml"/>
-		<itemref idref="the-lost-valley.xhtml"/>
-		<itemref idref="the-man-from-the-gods.xhtml"/>
-		<itemref idref="the-price-of-wiggins-orgy.xhtml"/>
-		<itemref idref="the-south-wind.xhtml"/>
-		<itemref idref="the-sea-fit.xhtml"/>
-		<itemref idref="the-strange-experience-of-the-rev-phillip-ambleside.xhtml"/>
-		<itemref idref="the-wendigo.xhtml"/>
-		<itemref idref="accessory-before-the-fact.xhtml"/>
-		<itemref idref="clairvoyance.xhtml"/>
-		<itemref idref="discovering-russia-on-foot.xhtml"/>
-		<itemref idref="dream-trespass.xhtml"/>
+		<itemref idref="in-hungary-with-tent-and-canoe.xhtml"/>
+		<itemref idref="in-the-jura-neuchatel.xhtml"/>
+		<itemref idref="jack-of-the-inkpot.xhtml"/>
+		<itemref idref="jimbos-longest-day.xhtml"/>
+		<itemref idref="karma.xhtml"/>		
+		<itemref idref="keeping-his-promise.xhtml"/>
+		<itemref idref="learning-to-ski.xhtml"/>
+		<itemref idref="let-not-the-sun.xhtml"/>
+		<itemref idref="lost-in-the-alps.xhtml"/>
+		<itemref idref="malahide-and-forden.xhtml"/>
+		<itemref idref="max-hensig.xhtml"/>
+		<itemref idref="may-day-eve.xhtml"/>
+		<itemref idref="memories-of-the-black-forest.xhtml"/>
+		<itemref idref="miss-slumbubble-and-claustrophobia.xhtml"/>
 		<itemref idref="monsieur-joseph-of-the-ski.xhtml"/>
+		<itemref idref="mrs-gurneys-poems.xhtml"/>
+		<itemref idref="my-adventure-with-a-lion.xhtml"/>
+		<itemref idref="my-old-tunes.xhtml"/>
+		<itemref idref="nephele.xhtml"/>
+		<itemref idref="news-v-nourishment.xhtml"/>
+		<itemref idref="old-clothes.xhtml"/>
 		<itemref idref="on-wings.xhtml"/>
-		<itemref idref="spring-and-the-mountaineer.xhtml"/>
-		<itemref idref="the-deferred-appointment.xhtml"/>
-		<itemref idref="the-empty-sleeve.xhtml"/>
-		<itemref idref="the-golden-fly.xhtml"/>
-		<itemref idref="the-messenger.xhtml"/>
-		<itemref idref="the-prayer.xhtml"/>
-		<itemref idref="the-transfer.xhtml"/>
-		<itemref idref="two-in-one.xhtml"/>
-		<itemref idref="algonquin-songs-and-legends.xhtml"/>
-		<itemref idref="an-arab-pilgrimage.xhtml"/>
-		<itemref idref="ancient-lights.xhtml"/>
-		<itemref idref="animal-life-in-the-egyptian-desert.xhtml"/>
-		<itemref idref="a-voice-in-the-wilderness.xhtml"/>
-		<itemref idref="failure-of-the-swiss-winter-season.xhtml"/>
+		<itemref idref="onanonanon.xhtml"/>
+		<itemref idref="our-adventure-with-the-danube-river-police.xhtml"/>
+		<itemref idref="petershin-and-mr-snide.xhtml"/>
+		<itemref idref="picking-fir-cones.xhtml"/>
+		<itemref idref="pines.xhtml"/>
+		<itemref idref="playing-catch.xhtml"/>
+		<itemref idref="questions-and-answers.xhtml"/>
+		<itemref idref="running-wolf.xhtml"/>
+		<itemref idref="s-o-s.xhtml"/>
+		<itemref idref="sambo-and-snitch.xhtml"/>
 		<itemref idref="sand.xhtml"/>
+		<itemref idref="secret-worship.xhtml"/>
+		<itemref idref="skeleton-lake-an-episode-in-camp.xhtml"/>
+		<itemref idref="sleep-and-how-to-do-without-it.xhtml"/>
+		<itemref idref="smith-an-episode-in-a-lodging-house.xhtml"/>
+		<itemref idref="special-delivery.xhtml"/>
+		<itemref idref="spread-of-the-national-anthem.xhtml"/>
+		<itemref idref="spring-and-the-mountaineer.xhtml"/>
+		<itemref idref="spring-in-switzerland.xhtml"/>
+		<itemref idref="strange-disappearance-of-a-baronet.xhtml"/>
+		<itemref idref="summering-in-canadian-backwoods.xhtml"/>
+		<itemref idref="switzerland-in-wartime.xhtml"/>
+		<itemref idref="switzerland.xhtml"/>
+		<itemref idref="testing-his-courage.xhtml"/>
 		<itemref idref="the-attic.xhtml"/>
+		<itemref idref="the-blue-eyes-fairy.xhtml"/>
+		<itemref idref="the-boy-messenger.xhtml"/>
+		<itemref idref="the-call.xhtml"/>
+		<itemref idref="the-camp-of-the-dog.xhtml"/>
+		<itemref idref="the-country-life-anthology-of-verse.xhtml"/>
+		<itemref idref="the-daisy-world.xhtml"/>
+		<itemref idref="the-damned.xhtml"/>
+		<itemref idref="the-dance-of-death.xhtml"/>
+		<itemref idref="the-decoy.xhtml"/>
+		<itemref idref="the-deferred-appointment.xhtml"/>
 		<itemref idref="the-destruction-of-smith.xhtml"/>
+		<itemref idref="the-doll.xhtml"/>
+		<itemref idref="the-eccentricity-of-simon-parnacute.xhtml"/>
 		<itemref idref="the-egyptian-desert-from-helouan.xhtml"/>
+		<itemref idref="the-empty-house.xhtml"/>
+		<itemref idref="the-empty-sleeve.xhtml"/>
+		<itemref idref="the-exiled-gods.xhtml"/>
+		<itemref idref="the-face-of-the-earth.xhtml"/>
+		<itemref idref="the-falling-glass.xhtml"/>
+		<itemref idref="the-farmhouse-on-the-hill.xhtml"/>
 		<itemref idref="the-garden-of-survival.xhtml"/>
 		<itemref idref="the-glamour-of-the-snow.xhtml"/>
 		<itemref idref="the-goblins-collection.xhtml"/>
+		<itemref idref="the-golden-fly.xhtml"/>
 		<itemref idref="the-heath-fire.xhtml"/>
-		<itemref idref="the-man-who-found-out.xhtml"/>
-		<itemref idref="the-man-whom-the-trees-loved.xhtml"/>
-		<itemref idref="the-return.xhtml"/>
-		<itemref idref="the-second-generation.xhtml"/>
-		<itemref idref="the-temptation-of-the-clay.xhtml"/>
-		<itemref idref="the-terror-of-the-twins.xhtml"/>
-		<itemref idref="the-unconquerable-charm-of-sussex.xhtml"/>
-		<itemref idref="the-whisperers.xhtml"/>
-		<itemref idref="wayfarers.xhtml"/>
-		<itemref idref="wind.xhtml"/>
-		<itemref idref="a-barmecide-feast.xhtml"/>
-		<itemref idref="arolla-and-its-climbs.xhtml"/>
-		<itemref idref="before-the-season.xhtml"/>
-		<itemref idref="egypt.xhtml"/>
-		<itemref idref="h-s-h.xhtml"/>
-		<itemref idref="learning-to-ski.xhtml"/>
-		<itemref idref="mrs-gurneys-poems.xhtml"/>
-		<itemref idref="the-israelites-track-from-red-sea-to-mount-sinai.xhtml"/>
-		<itemref idref="the-kiss-of-a-psychologist.xhtml"/>
-		<itemref idref="the-tradition.xhtml"/>
-		<itemref idref="transition.xhtml"/>
-		<itemref idref="value.xhtml"/>
-		<itemref idref="with-the-russian-pilgrims-to-jerusalem.xhtml"/>
-		<itemref idref="a-bit-of-wood.xhtml"/>
-		<itemref idref="a-descent-into-egypt.xhtml"/>
-		<itemref idref="a-desert-episode.xhtml"/>
-		<itemref idref="a-victim-of-higher-space.xhtml"/>
-		<itemref idref="by-water.xhtml"/>
-		<itemref idref="faith-cure-on-the-channel.xhtml"/>
-		<itemref idref="her-birthday.xhtml"/>
-		<itemref idref="jimbos-longest-day.xhtml"/>
-		<itemref idref="let-not-the-sun.xhtml"/>
-		<itemref idref="news-v-nourishment.xhtml"/>
-		<itemref idref="pines.xhtml"/>
-		<itemref idref="strange-disappearance-of-a-baronet.xhtml"/>
-		<itemref idref="the-daisy-world.xhtml"/>
-		<itemref idref="the-damned.xhtml"/>
-		<itemref idref="the-doll.xhtml"/>
-		<itemref idref="the-falling-glass.xhtml"/>
+		<itemref idref="the-house-of-the-past.xhtml"/>
 		<itemref idref="the-impulse.xhtml"/>
+		<itemref idref="the-insanity-of-jones.xhtml"/>
 		<itemref idref="the-invitation.xhtml"/>
+		<itemref idref="the-israelites-track-from-red-sea-to-mount-sinai.xhtml"/>
+		<itemref idref="the-kingdom-of-the-heavens.xhtml"/>
+		<itemref idref="the-kiss-of-a-psychologist.xhtml"/>
+		<itemref idref="the-kit-bag.xhtml"/>
+		<itemref idref="the-lane-that-ran-east-and-west.xhtml"/>
+		<itemref idref="the-last-egg-in-the-nest.xhtml"/>
+		<itemref idref="the-laughter-of-courage.xhtml"/>
+		<itemref idref="the-laying-of-a-red-haired-ghost.xhtml"/>
 		<itemref idref="the-lease.xhtml"/>
+		<itemref idref="the-listener.xhtml"/>
 		<itemref idref="the-little-beggar.xhtml"/>
+		<itemref idref="the-lost-valley.xhtml"/>
+		<itemref idref="the-man-from-the-gods.xhtml"/>
+		<itemref idref="the-man-who-found-out.xhtml"/>
+		<itemref idref="the-man-who-played-upon-the-leaf.xhtml"/>
 		<itemref idref="the-man-who-was-milligan.xhtml"/>
+		<itemref idref="the-man-whom-the-trees-loved.xhtml"/>
+		<itemref idref="the-memory-of-beauty.xhtml"/>
+		<itemref idref="the-messenger.xhtml"/>
 		<itemref idref="the-miracle.xhtml"/>
+		<itemref idref="the-nemesis-of-fire.xhtml"/>
 		<itemref idref="the-night-wind.xhtml"/>
+		<itemref idref="the-occupant-of-the-room.xhtml"/>
+		<itemref idref="the-old-man-of-visions.xhtml"/>
+		<itemref idref="the-olive.xhtml"/>
+		<itemref idref="the-open-window.xhtml"/>
+		<itemref idref="the-other-wing.xhtml"/>
+		<itemref idref="the-other-woman.xhtml"/>
+		<itemref idref="the-permanent-reality.xhtml"/>
 		<itemref idref="the-pikestaffe-case.xhtml"/>
+		<itemref idref="the-prayer.xhtml"/>
+		<itemref idref="the-price-of-wiggins-orgy.xhtml"/>
 		<itemref idref="the-regeneration-of-lord-ernie.xhtml"/>
+		<itemref idref="the-return.xhtml"/>
 		<itemref idref="the-sacrifice.xhtml"/>
+		<itemref idref="the-sea-fit.xhtml"/>
+		<itemref idref="the-second-generation.xhtml"/>
 		<itemref idref="the-secret.xhtml"/>
 		<itemref idref="the-soldiers-visitor.xhtml"/>
+		<itemref idref="the-soul-of-galahad.xhtml"/>
+		<itemref idref="the-south-wind.xhtml"/>
+		<itemref idref="the-spell-of-egypt.xhtml"/>
+		<itemref idref="the-star.xhtml"/>
+		<itemref idref="the-story-mr-popkiss-told.xhtml"/>
+		<itemref idref="the-story-of-karl-ott.xhtml"/>
+		<itemref idref="the-strange-adventures-of-a-private-secretary-in-new-york.xhtml"/>
+		<itemref idref="the-strange-experience-of-the-rev-phillip-ambleside.xhtml"/>
+		<itemref idref="the-tarn-of-sacrifice.xhtml"/>
+		<itemref idref="the-temptation-of-the-clay.xhtml"/>
+		<itemref idref="the-terror-of-the-twins.xhtml"/>
+		<itemref idref="the-touch-of-pan.xhtml"/>
+		<itemref idref="the-tradition.xhtml"/>
+		<itemref idref="the-transfer.xhtml"/>
 		<itemref idref="the-trod.xhtml"/>
+		<itemref idref="the-tryst.xhtml"/>
+		<itemref idref="the-unconquerable-charm-of-sussex.xhtml"/>
+		<itemref idref="the-valley-of-the-beasts.xhtml"/>
+		<itemref idref="the-vanishing-redskins.xhtml"/>
+		<itemref idref="the-water-performance.xhtml"/>
+		<itemref idref="the-wendigo.xhtml"/>
+		<itemref idref="the-whisperers.xhtml"/>
+		<itemref idref="the-willows.xhtml"/>
 		<itemref idref="the-wings-of-horus.xhtml"/>
 		<itemref idref="the-winter-alps.xhtml"/>
-		<itemref idref="up-and-down.xhtml"/>
-		<itemref idref="violence.xhtml"/>
-		<itemref idref="after-the-war.xhtml"/>
-		<itemref idref="cains-atonement.xhtml"/>
-		<itemref idref="the-country-life-anthology-of-verse.xhtml"/>
-		<itemref idref="the-other-wing.xhtml"/>
-		<itemref idref="the-permanent-reality.xhtml"/>
-		<itemref idref="the-soul-of-galahad.xhtml"/>
-		<itemref idref="think-victory.xhtml"/>
-		<itemref idref="my-old-tunes.xhtml"/>
-		<itemref idref="sleep-and-how-to-do-without-it.xhtml"/>
-		<itemref idref="the-blue-eyes-fairy.xhtml"/>
-		<itemref idref="the-exiled-gods.xhtml"/>
-		<itemref idref="the-occupant-of-the-room.xhtml"/>
-		<itemref idref="to-the-children.xhtml"/>
-		<itemref idref="an-egyptian-hornet.xhtml"/>
-		<itemref idref="switzerland-in-wartime.xhtml"/>
-		<itemref idref="the-touch-of-pan.xhtml"/>
-		<itemref idref="the-tryst.xhtml"/>
-		<itemref idref="karma.xhtml"/>
-		<itemref idref="s-o-s.xhtml"/>
-		<itemref idref="the-memory-of-beauty.xhtml"/>
-		<itemref idref="alexander-alexander.xhtml"/>
-		<itemref idref="switzerland.xhtml"/>
-		<itemref idref="the-call.xhtml"/>
-		<itemref idref="the-decoy.xhtml"/>
-		<itemref idref="the-other-woman.xhtml"/>
-		<itemref idref="the-world-dream-of-mccallister.xhtml"/>
-		<itemref idref="wireless-confusion.xhtml"/>
-		<itemref idref="chinese-magic.xhtml"/>
-		<itemref idref="first-hate.xhtml"/>
-		<itemref idref="running-wolf.xhtml"/>
-		<itemref idref="the-olive.xhtml"/>
-		<itemref idref="confession.xhtml"/>
-		<itemref idref="egyptian-sorcery.xhtml"/>
-		<itemref idref="nephele.xhtml"/>
-		<itemref idref="onanonanon.xhtml"/>
-		<itemref idref="the-lane-that-ran-east-and-west.xhtml"/>
-		<itemref idref="the-tarn-of-sacrifice.xhtml"/>
-		<itemref idref="the-valley-of-the-beasts.xhtml"/>
 		<itemref idref="the-wolves-of-god.xhtml"/>
-		<itemref idref="vengeance-is-mine.xhtml"/>
-		<itemref idref="lost-in-the-alps.xhtml"/>
-		<itemref idref="tongues-of-fire.xhtml"/>
-		<itemref idref="a-continuous-performance.xhtml"/>
-		<itemref idref="a-man-of-earth.xhtml"/>
-		<itemref idref="malahide-and-forden.xhtml"/>
-		<itemref idref="petershin-and-mr-snide.xhtml"/>
-		<itemref idref="picking-fir-cones.xhtml"/>
-		<itemref idref="playing-catch.xhtml"/>
-		<itemref idref="the-laughter-of-courage.xhtml"/>
-		<itemref idref="the-open-window.xhtml"/>
-		<itemref idref="the-spell-of-egypt.xhtml"/>
-		<itemref idref="explorers-ghost-stories.xhtml"/>
-		<itemref idref="full-circle.xhtml"/>
-		<itemref idref="engine.xhtml"/>
-		<itemref idref="if-i-were-you.xhtml"/>
-		<itemref idref="questions-and-answers.xhtml"/>
-		<itemref idref="the-star.xhtml"/>
+		<itemref idref="the-womans-ghost-story.xhtml"/>
+		<itemref idref="the-wood-of-the-dead.xhtml"/>
+		<itemref idref="the-world-dream-of-mccallister.xhtml"/>
+		<itemref idref="think-victory.xhtml"/>
+		<itemref idref="to-the-children.xhtml"/>
 		<itemref idref="tobys-birthday-presents.xhtml"/>
-		<itemref idref="jack-of-the-inkpot.xhtml"/>
-		<itemref idref="the-kingdom-of-the-heavens.xhtml"/>
-		<itemref idref="the-water-performance.xhtml"/>
+		<itemref idref="tongues-of-fire.xhtml"/>
+		<itemref idref="transition.xhtml"/>
 		<itemref idref="traveling-light.xhtml"/>
-		<itemref idref="sambo-and-snitch.xhtml"/>
-		<itemref idref="spring-in-switzerland.xhtml"/>
+		<itemref idref="two-in-one.xhtml"/>
+		<itemref idref="up-and-down.xhtml"/>
+		<itemref idref="value.xhtml"/>
+		<itemref idref="vengeance-is-mine.xhtml"/>
+		<itemref idref="violence.xhtml"/>
+		<itemref idref="wayfarers.xhtml"/>
+		<itemref idref="wind.xhtml"/>
+		<itemref idref="wireless-confusion.xhtml"/>
+		<itemref idref="with-intent-to-steal.xhtml"/>
+		<itemref idref="with-the-russian-pilgrims-to-jerusalem.xhtml"/>
+		<itemref idref="you-may-telephone-from-here.xhtml"/>
+		<itemref idref="afterword.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
 		<itemref idref="colophon.xhtml"/>
 		<itemref idref="uncopyright.xhtml"/>
-		<itemref idref="afterword.xhtml"/>
 	</spine>
 </package>
